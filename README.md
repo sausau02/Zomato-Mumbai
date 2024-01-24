@@ -36,3 +36,19 @@ The Zomato Mumbai Data Analysis Project aims to uncover insights into the divers
 - Is there a relation between Price and Rating by each Cuisine Type?
 - Is there a relation between Region and Price?
 - Find the list of Affordable Restaurants?
+
+## Insights (plots)
+![newplot](https://github.com/sausau02/Zomato-Mumbai/assets/157574244/f60a6ea8-7c57-4fb4-970c-ea6036ccb383)
+![newplot (1)](https://github.com/sausau02/Zomato-Mumbai/assets/157574244/1968c059-6a5c-4db9-8aa0-5cc12cb2f404)
+![newplot (2)](https://github.com/sausau02/Zomato-Mumbai/assets/157574244/7882e4b1-bc20-4023-8e3a-2e3e22177861)
+![newplot (3)](https://github.com/sausau02/Zomato-Mumbai/assets/157574244/5caeab9b-6d21-4c12-9b32-f74aa18bbf28)
+![newplot (4)](https://github.com/sausau02/Zomato-Mumbai/assets/157574244/f8cc4a05-1e66-478d-8373-58b0b00d0152)
+![newplot (5)](https://github.com/sausau02/Zomato-Mumbai/assets/157574244/232331f5-3e01-4306-a788-7ca052bebbc3)
+![newplot (6)](https://github.com/sausau02/Zomato-Mumbai/assets/157574244/d6638d1b-854c-4338-9d47-73170ecb34b6)
+
+
+
+
+
+
+
