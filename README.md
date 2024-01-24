@@ -1,3 +1,4 @@
+![Zomato_Logo](https://github.com/sausau02/Zomato-Mumbai/assets/157574244/7b88acd7-d71d-42e6-8d5e-b1efa7db474a)
 # Zomato (Mumbai) Data Analysis Project
 
 ## Overview
